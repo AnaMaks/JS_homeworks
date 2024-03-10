@@ -2,23 +2,24 @@
 
 // task #1
 
-let admin, name;
-name = "John";
-admin = name;
-alert(admin);
+let admin = null;
+let name = null;
+name = "John"
+admin = name
+alert(admin)
 
 
 // task #2
 
 const myPlanet = "Earth";
-console.log(myPlanet);
+console.log(myPlanet)
 
 const userName = prompt('Hello, enter your name:');
-console.log(userName);
+console.log(userName)
 
 
 // task #3
 
 let value = '10' + 10;
-console.log(typeof value);
-console.log(value);
+console.log(typeof value)
+console.log(value)
